@@ -1880,3 +1880,1325 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.09-05.50.37:068][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
 [2020.01.09-05.50.37:291][134]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/ThirdPersonExampleMap5FD8046647CC1AD5ABABCCB528ABF36E.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2020.01.09-05.50.37:420][134]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/ThirdPersonExampleMap_BuiltData666EFEC748EB856C8A68B6AD60629EE9.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.09-05.57.10:739][711]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-05.57.10:771][711]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-05.57.10:771][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-05.57.10:771][711]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2020, 1:57:10 PM)
+[2020.01.09-05.57.10:771][711]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-05.57.10:787][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015957s)
+[2020.01.09-05.57.10:789][711]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.09-05.57.10:789][711]LogPlayLevel: PIE: World Init took: (0.001945s)
+[2020.01.09-05.57.10:789][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018107s)
+[2020.01.09-05.57.10:833][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.01.09-05.57.10:843][711]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-05.57.10:866][711]LogInit: FAudioDevice initialized.
+[2020.01.09-05.57.10:880][711]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.09-05.57.10:882][711]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.08-21.57.10
+[2020.01.09-05.57.10:882][711]LogWorld: Bringing up level for play took: 0.001922
+[2020.01.09-05.57.10:882][711]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.01.09-05.57.10:884][711]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.653
+[2020.01.09-05.57.10:884][711]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-05.57.14:724][934]Cmd: LevelEditor.ToggleImmersive
+[2020.01.09-05.57.14:887][940]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-05.57.25:982][605]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-05.57.25:983][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-05.57.25:983][605]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-05.57.25:983][605]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-05.57.26:009][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-05.57.26:009][605]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-05.57.26:057][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-05.57.26:061][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.01.09-05.57.26:111][607]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.01.09-05.57.27:977][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-05.57.29:181][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-05.57.38:394][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-05.58.30:008][507]LogEditorViewport: Clicking on Actor (LMB): Collectable_C (Collectable2)
+[2020.01.09-05.58.31:111][571]LogEditorViewport: Clicking on Actor (LMB): Collectable_C (Collectable2)
+[2020.01.09-05.58.31:187][575]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SM_AssetPlatform)
+[2020.01.09-05.58.33:775][729]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SM_AssetPlatform)
+[2020.01.09-05.58.33:834][732]LogEditorViewport: Clicking on Actor (double click): Collectable_C (Collectable2)
+[2020.01.09-05.58.35:246][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-05.58.59:859][119]BlueprintLog: New page: Compile Collectable
+[2020.01.09-05.59.00:112][119]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.01.09-05.59.00:541][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TP_Game/Collectable" FILE="../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset" SILENT=true
+[2020.01.09-05.59.00:596][141]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/CollectableAD58E86E46B9EF13CE5229A4483359C6.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset'
+[2020.01.09-05.59.03:958][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.09-05.59.04:838][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-05.59.09:808][631]LogEditorViewport: Clicking on Actor (LMB): Collectable_C (Collectable2)
+[2020.01.09-05.59.12:143][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-05.59.25:745][580]BlueprintLog: New page: Compile Collectable
+[2020.01.09-05.59.25:748][580]LogBlueprint: Warning: [Compiler Collectable] Could not find a variable named "mesh" in 'Collectable_C'.
+Make sure 'Collectable_C' has been compiled for  Get mesh
+[2020.01.09-05.59.25:748][580]LogBlueprint: Warning: [Compiler Collectable] Could not find a variable named "StaticMesh" in 'Collectable_C'.
+Make sure 'Collectable_C' has been compiled for  Get StaticMesh
+[2020.01.09-05.59.25:748][580]LogBlueprint: Warning: [Compiler Collectable] Could not find a variable named "RotatingMovement" in 'Collectable_C'.
+Make sure 'Collectable_C' has been compiled for  Get RotatingMovement
+[2020.01.09-05.59.25:748][580]LogBlueprint: Warning: [Compiler Collectable] Could not find a variable named "rotationRate" in 'Collectable_C'.
+Make sure 'Collectable_C' has been compiled for  Get rotationRate
+[2020.01.09-05.59.25:748][580]LogBlueprint: Warning: [Compiler Collectable] Could not find a variable named "pivotTranslate" in 'Collectable_C'.
+Make sure 'Collectable_C' has been compiled for  Get pivotTranslate
+[2020.01.09-05.59.25:748][580]LogBlueprint: Warning: [Compiler Collectable] Could not find a variable named "rotationInLocalSpace" in 'Collectable_C'.
+Make sure 'Collectable_C' has been compiled for  Get rotationInLocalSpace
+[2020.01.09-05.59.25:749][580]LogBlueprint: Error: [Compiler Collectable] The property associated with  Rotation in Local Space  could not be found in '/Game/TP_Game/Collectable.Collectable_C'
+[2020.01.09-05.59.25:749][580]LogBlueprint: Error: [Compiler Collectable] The property associated with  Pivot Translate  could not be found in '/Game/TP_Game/Collectable.Collectable_C'
+[2020.01.09-05.59.25:749][580]LogBlueprint: Error: [Compiler Collectable] The property associated with  Rotation Rate  could not be found in '/Game/TP_Game/Collectable.Collectable_C'
+[2020.01.09-05.59.25:749][580]LogBlueprint: Error: [Compiler Collectable] The property associated with  Rotating Movement  could not be found in '/Game/TP_Game/Collectable.Collectable_C'
+[2020.01.09-05.59.25:749][580]LogBlueprint: Error: [Compiler Collectable] The property associated with  Static Mesh  could not be found in '/Game/TP_Game/Collectable.Collectable_C'
+[2020.01.09-05.59.25:749][580]LogBlueprint: Error: [Compiler Collectable] The property associated with  Mesh  could not be found in '/Game/TP_Game/Collectable.Collectable_C'
+[2020.01.09-05.59.25:990][580]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.01.09-05.59.26:480][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TP_Game/Collectable" FILE="../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset" SILENT=true
+[2020.01.09-05.59.26:516][602]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/Collectable70E72CD54CCAFAC4F9C086B8578B3442.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset'
+[2020.01.09-06.00.05:887][913]BlueprintLog: New page: Compile Collectable
+[2020.01.09-06.00.05:890][913]LogBlueprint: Warning: [Compiler Collectable] Could not find a variable named "mesh" in 'Collectable_C'.
+Make sure 'Collectable_C' has been compiled for  Get mesh
+[2020.01.09-06.00.05:890][913]LogBlueprint: Warning: [Compiler Collectable] Could not find a variable named "rotationRate" in 'Collectable_C'.
+Make sure 'Collectable_C' has been compiled for  Get rotationRate
+[2020.01.09-06.00.05:890][913]LogBlueprint: Warning: [Compiler Collectable] Could not find a variable named "pivotTranslate" in 'Collectable_C'.
+Make sure 'Collectable_C' has been compiled for  Get pivotTranslate
+[2020.01.09-06.00.05:890][913]LogBlueprint: Warning: [Compiler Collectable] Could not find a variable named "rotationInLocalSpace" in 'Collectable_C'.
+Make sure 'Collectable_C' has been compiled for  Get rotationInLocalSpace
+[2020.01.09-06.00.05:890][913]LogBlueprint: Error: [Compiler Collectable] The property associated with  Rotation in Local Space  could not be found in '/Game/TP_Game/Collectable.Collectable_C'
+[2020.01.09-06.00.05:890][913]LogBlueprint: Error: [Compiler Collectable] The property associated with  Pivot Translate  could not be found in '/Game/TP_Game/Collectable.Collectable_C'
+[2020.01.09-06.00.05:890][913]LogBlueprint: Error: [Compiler Collectable] The property associated with  Rotation Rate  could not be found in '/Game/TP_Game/Collectable.Collectable_C'
+[2020.01.09-06.00.05:891][913]LogBlueprint: Error: [Compiler Collectable] The property associated with  Mesh  could not be found in '/Game/TP_Game/Collectable.Collectable_C'
+[2020.01.09-06.00.06:150][913]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.01.09-06.00.19:597][704]LogEditorTransaction: Undo Promote To Variable
+[2020.01.09-06.00.19:871][718]LogEditorTransaction: Undo Promote To Variable
+[2020.01.09-06.00.46:328][291]BlueprintLog: New page: Compile Collectable
+[2020.01.09-06.00.46:330][291]LogBlueprint: Warning: [Compiler Collectable] Could not find a variable named "mesh" in 'Collectable_C'.
+Make sure 'Collectable_C' has been compiled for  Get mesh
+[2020.01.09-06.00.46:331][291]LogBlueprint: Error: [Compiler Collectable] The property associated with  Mesh  could not be found in '/Game/TP_Game/Collectable.Collectable_C'
+[2020.01.09-06.00.46:568][291]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.01.09-06.00.53:691][710]BlueprintLog: New page: Compile Collectable
+[2020.01.09-06.00.53:699][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.00.53:699][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.00.53:699][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.00.53:699][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.00.53:699][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.00.53:704][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.00.53:704][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.00.53:704][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.00.53:704][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.00.53:704][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.00.53:704][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.00.53:704][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.00.53:704][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.00.53:704][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.00.53:704][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.00.53:705][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.00.53:705][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.00.53:705][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.00.53:705][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.00.53:705][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.00.53:937][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.01.09-06.00.53:939][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.00.53:939][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.00.53:939][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.00.53:939][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.00.53:939][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.00.53:939][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.00.53:939][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.00.53:940][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.00.53:940][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.00.53:940][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.00.53:940][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.00.53:940][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.00.53:940][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.00.53:940][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.00.53:940][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.00.53:941][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.00.53:941][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.00.53:941][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.00.53:941][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.00.53:941][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.00.53:941][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.00.53:941][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.00.53:941][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.00.53:941][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.00.53:941][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.00.53:945][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.00.53:945][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.00.53:945][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.00.53:945][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.00.53:945][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.00.53:946][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.00.53:946][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.00.53:946][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.00.53:946][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.00.53:946][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.00.53:947][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.00.53:947][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.00.53:947][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.00.53:947][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.00.53:947][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.00.53:947][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.00.53:947][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.00.53:947][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.00.53:947][710]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.00.53:947][710]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.00.54:533][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TP_Game/Collectable" FILE="../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset" SILENT=true
+[2020.01.09-06.00.54:568][740]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/Collectable66F717F3479C29B13FEDA19D70351205.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset'
+[2020.01.09-06.00.56:314][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TA_GEO_FBX_TA_Starting_room)
+[2020.01.09-06.00.56:920][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.00.57:002][881]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-06.00.57:030][881]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.00.57:030][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-06.00.57:030][881]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2020, 2:00:57 PM)
+[2020.01.09-06.00.57:030][881]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-06.00.57:091][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060513s)
+[2020.01.09-06.00.57:092][881]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.09-06.00.57:092][881]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2020.01.09-06.00.57:092][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.061666s)
+[2020.01.09-06.00.57:134][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.01.09-06.00.57:143][881]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-06.00.57:162][881]LogInit: FAudioDevice initialized.
+[2020.01.09-06.00.57:178][881]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.09-06.00.57:180][881]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.08-22.00.57
+[2020.01.09-06.00.57:181][881]LogWorld: Bringing up level for play took: 0.001564
+[2020.01.09-06.00.57:181][881]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2020.01.09-06.00.57:183][881]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.354
+[2020.01.09-06.00.57:183][881]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.01.00:865][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.01.00:865][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-06.01.00:865][ 61]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-06.01.00:865][ 61]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.01.00:899][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-06.01.00:899][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.01.00:947][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-06.01.00:951][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.01.09-06.01.00:991][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.01.09-06.01.04:713][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.01.17:902][ 14]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.01.17:902][ 14]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable2_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.01.17:903][ 14]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.01.17:903][ 14]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.01.17:905][ 14]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.01.17:905][ 14]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_2:PersistentLevel.Collectable_C_0
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.01.17:905][ 14]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.01.17:905][ 14]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.01.17:905][ 14]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.01.17:905][ 14]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.01.17:905][ 14]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_5
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.01.43:160][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.01.52:919][ 69]BlueprintLog: New page: Compile Collectable
+[2020.01.09-06.01.53:172][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.01.09-06.01.57:878][346]LogEditorTransaction: Undo Delete current selection
+[2020.01.09-06.01.58:346][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.01.59:574][445]BlueprintLog: New page: Compile Collectable
+[2020.01.09-06.01.59:581][445]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_6
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.01.59:581][445]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_6
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.01.59:581][445]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_6
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.01.59:581][445]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_6
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.01.59:581][445]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_6
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.01.59:813][445]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.01.09-06.01.59:815][445]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_6
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.01.59:815][445]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_6
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.01.59:815][445]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_6
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.01.59:815][445]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_6
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.01.59:815][445]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_6
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.01.59:816][445]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_7
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.01.59:816][445]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_7
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.01.59:816][445]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_7
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.01.59:816][445]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_7
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.01.59:816][445]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_7
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.01.59:821][445]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_7
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.01.59:821][445]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_7
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.01.59:821][445]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_7
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.01.59:821][445]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_7
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.01.59:821][445]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_7
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.02.00:210][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TP_Game/Collectable" FILE="../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset" SILENT=true
+[2020.01.09-06.02.00:243][459]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/Collectable26A746DF46DB01F14546BA89F55D7ACB.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset'
+[2020.01.09-06.02.04:215][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.02.24:752][914]BlueprintLog: New page: Compile Collectable
+[2020.01.09-06.02.24:992][914]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.01.09-06.02.25:266][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TP_Game/Collectable" FILE="../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset" SILENT=true
+[2020.01.09-06.02.25:296][918]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/CollectableBCD07F094DCF84862C257EB8560C3523.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset'
+[2020.01.09-06.02.35:573][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.02.42:451][941]LogEditorTransaction: Undo Delete current selection
+[2020.01.09-06.02.54:919][678]BlueprintLog: New page: Compile Collectable
+[2020.01.09-06.02.54:927][678]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_8
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.02.54:927][678]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_8
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.02.54:927][678]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_8
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.02.54:927][678]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_8
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.02.54:927][678]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_8
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.02.55:180][678]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.01.09-06.02.55:184][678]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_8
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.02.55:184][678]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_8
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.02.55:184][678]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_8
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.02.55:184][678]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_8
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.02.55:184][678]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_8
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.02.55:184][678]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.02.55:184][678]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.02.55:184][678]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.02.55:184][678]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.02.55:184][678]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.02.55:189][678]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.02.55:189][678]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.02.55:189][678]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.02.55:189][678]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.02.55:189][678]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.02.55:625][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TP_Game/Collectable" FILE="../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset" SILENT=true
+[2020.01.09-06.02.55:667][694]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/Collectable928268BF450A81B3F5C40E8BC853E057.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset'
+[2020.01.09-06.03.01:707][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TP_Game/Collectable" FILE="../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset" SILENT=true
+[2020.01.09-06.03.01:735][ 53]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/Collectable0109E13244441223FAC9C8B1D67CC1D7.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset'
+[2020.01.09-06.03.04:400][158]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-06.03.04:423][158]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.03.04:423][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-06.03.04:423][158]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2020, 2:03:04 PM)
+[2020.01.09-06.03.04:423][158]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-06.03.04:438][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014277s)
+[2020.01.09-06.03.04:439][158]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.09-06.03.04:439][158]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2020.01.09-06.03.04:439][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015594s)
+[2020.01.09-06.03.04:483][158]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.01.09-06.03.04:492][158]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-06.03.04:512][158]LogInit: FAudioDevice initialized.
+[2020.01.09-06.03.04:523][158]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.09-06.03.04:526][158]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.08-22.03.04
+[2020.01.09-06.03.04:527][158]LogWorld: Bringing up level for play took: 0.002096
+[2020.01.09-06.03.04:527][158]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.01.09-06.03.04:529][158]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.992
+[2020.01.09-06.03.04:529][158]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.03.06:126][252]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.03.06:126][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-06.03.06:126][252]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-06.03.06:126][252]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.03.06:146][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-06.03.06:146][252]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.03.06:197][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-06.03.06:202][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.01.09-06.03.06:245][253]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.01.09-06.03.06:910][286]LogEditorViewport: Clicking on Actor (LMB): Collectable_C (Collectable2)
+[2020.01.09-06.03.08:705][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.03.30:286][679]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.30:286][679]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.30:286][679]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.03.30:286][679]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.03.30:286][679]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.03.30:287][679]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.30:287][679]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_9
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.31:485][750]BlueprintLog: New page: Compile Collectable
+[2020.01.09-06.03.31:724][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.01.09-06.03.31:728][750]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.31:728][750]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.31:728][750]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.03.31:728][750]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.03.31:728][750]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.03.31:733][750]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.31:733][750]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.31:733][750]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.03.31:733][750]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.03.31:733][750]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.03.32:029][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TP_Game/Collectable" FILE="../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset" SILENT=true
+[2020.01.09-06.03.32:063][760]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/CollectableC5377E7F4F2E2D3304EFEA873403C8A0.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset'
+[2020.01.09-06.03.34:276][887]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-06.03.34:295][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.03.34:295][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-06.03.34:295][887]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2020, 2:03:34 PM)
+[2020.01.09-06.03.34:296][887]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-06.03.34:308][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012006s)
+[2020.01.09-06.03.34:308][887]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.09-06.03.34:309][887]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2020.01.09-06.03.34:309][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013040s)
+[2020.01.09-06.03.34:347][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.01.09-06.03.34:357][887]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-06.03.34:377][887]LogInit: FAudioDevice initialized.
+[2020.01.09-06.03.34:385][887]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.09-06.03.34:387][887]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.08-22.03.34
+[2020.01.09-06.03.34:387][887]LogWorld: Bringing up level for play took: 0.001595
+[2020.01.09-06.03.34:387][887]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.01.09-06.03.34:389][887]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.852
+[2020.01.09-06.03.34:390][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.03.39:459][190]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.03.39:460][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-06.03.39:460][190]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-06.03.39:460][190]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.03.39:476][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-06.03.39:476][190]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.03.39:526][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-06.03.39:531][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.01.09-06.03.39:576][192]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.01.09-06.03.40:560][251]LogEditorViewport: Clicking on Actor (LMB): RotatingMovement_C (RotatingMovement)
+[2020.01.09-06.03.43:209][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.09-06.03.45:018][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.09-06.03.45:674][555]LogEditorViewport: Clicking on Actor (LMB): Collectable_C (Collectable2)
+[2020.01.09-06.03.47:590][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-06.03.55:376][118]LogEditorViewport: Clicking on Actor (LMB): RotatingMovement_C (RotatingMovement)
+[2020.01.09-06.03.57:459][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.03.58:303][275]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.58:303][275]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.58:303][275]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.03.58:303][275]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.03.58:303][275]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.03.58:304][275]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.58:304][275]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.58:304][275]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.03.58:304][275]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.03.58:304][275]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.03.58:305][275]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.58:305][275]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.58:305][275]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.03.58:305][275]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.03.58:305][275]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.03.58:307][275]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.58:307][275]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.59:203][315]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.59:203][315]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.59:203][315]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.03.59:203][315]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.03.59:203][315]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.03.59:204][315]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.59:204][315]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.59:204][315]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.03.59:204][315]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.03.59:204][315]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.03.59:205][315]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.59:205][315]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.59:205][315]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.03.59:205][315]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.03.59:205][315]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.03.59:207][315]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.59:207][315]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_2
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.59:422][327]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.59:422][327]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.59:422][327]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.03.59:422][327]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.03.59:422][327]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.03.59:427][327]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.59:427][327]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.59:427][327]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.03.59:427][327]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.03.59:427][327]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.03.59:427][327]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.03.59:427][327]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.03.59:427][327]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.03.59:427][327]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.03.59:427][327]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Collectable3_4
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.04.00:334][381]Cmd: TRANSACTION UNDO
+[2020.01.09-06.04.00:334][381]LogEditorTransaction: Undo Create Actors
+[2020.01.09-06.04.00:601][395]Cmd: TRANSACTION UNDO
+[2020.01.09-06.04.00:601][395]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.09-06.04.01:126][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.04.09:939][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.04.12:903][106]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-06.04.12:924][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.04.12:924][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-06.04.12:924][106]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2020, 2:04:12 PM)
+[2020.01.09-06.04.12:924][106]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-06.04.12:939][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014723s)
+[2020.01.09-06.04.12:940][106]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.09-06.04.12:941][106]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2020.01.09-06.04.12:941][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016303s)
+[2020.01.09-06.04.12:985][106]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.01.09-06.04.12:992][106]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-06.04.13:010][106]LogInit: FAudioDevice initialized.
+[2020.01.09-06.04.13:017][106]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.09-06.04.13:020][106]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.08-22.04.13
+[2020.01.09-06.04.13:020][106]LogWorld: Bringing up level for play took: 0.001685
+[2020.01.09-06.04.13:020][106]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.01.09-06.04.13:022][106]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.515
+[2020.01.09-06.04.13:022][106]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.04.15:841][274]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.04.15:841][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-06.04.15:841][274]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-06.04.15:842][274]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.04.15:855][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-06.04.15:855][274]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.04.15:902][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-06.04.15:906][274]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.01.09-06.04.15:950][276]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.01.09-06.04.17:017][340]LogEditorViewport: Clicking on Actor (LMB): RotatingMovement_C (RotatingMovement2)
+[2020.01.09-06.04.24:668][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.04.24:767][803]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-06.04.24:785][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.04.24:785][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-06.04.24:786][803]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2020, 2:04:24 PM)
+[2020.01.09-06.04.24:786][803]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-06.04.24:799][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013427s)
+[2020.01.09-06.04.24:800][803]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.09-06.04.24:801][803]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2020.01.09-06.04.24:801][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014833s)
+[2020.01.09-06.04.24:844][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.01.09-06.04.24:853][803]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-06.04.24:873][803]LogInit: FAudioDevice initialized.
+[2020.01.09-06.04.24:883][803]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.09-06.04.24:887][803]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.08-22.04.24
+[2020.01.09-06.04.24:887][803]LogWorld: Bringing up level for play took: 0.002481
+[2020.01.09-06.04.24:887][803]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.01.09-06.04.24:889][803]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.648
+[2020.01.09-06.04.24:889][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.04.26:450][895]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.04.26:450][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-06.04.26:450][895]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-06.04.26:450][895]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.04.26:462][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-06.04.26:462][895]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.04.26:508][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-06.04.26:512][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.01.09-06.04.26:556][897]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.01.09-06.04.27:673][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TA_GEO_FBX_TA_Starting_room)
+[2020.01.09-06.04.28:439][  8]LogEditorViewport: Clicking on Actor (LMB): Collectable_C (Collectable2)
+[2020.01.09-06.04.29:194][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TA_GEO_FBX_TA_Starting_room)
+[2020.01.09-06.04.30:222][112]LogEditorViewport: Clicking on Actor (LMB): RotatingMovement_C (RotatingMovement2)
+[2020.01.09-06.04.36:271][473]Cmd: TRANSACTION UNDO
+[2020.01.09-06.04.36:271][473]LogEditorTransaction: Undo Move Actors
+[2020.01.09-06.04.42:812][850]LogEditorViewport: Clicking on Actor (LMB): Collectable_C (Collectable2)
+[2020.01.09-06.04.44:842][965]LogEditorViewport: Clicking on Actor (LMB): RotatingMovement_C (RotatingMovement2)
+[2020.01.09-06.04.53:225][466]LogEditorViewport: Clicking on Actor (LMB): Collectable_C (Collectable2)
+[2020.01.09-06.04.59:227][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.07.35:540][620]LogSlate: Window 'Delete Variable' being destroyed
+[2020.01.09-06.07.35:550][620]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.07.35:550][620]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.07.35:550][620]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:007A
+[2020.01.09-06.07.35:550][620]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00AD
+[2020.01.09-06.07.35:550][620]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:00C2
+[2020.01.09-06.07.39:155][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.07.40:457][904]LogScript: Warning: Accessed None trying to read property RotatingMovement
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:004F
+[2020.01.09-06.07.40:457][904]LogScript: Warning: Attempted to assign to None
+	Collectable_C /Engine/Transient.World_1:PersistentLevel.Collectable_C_10
+	Function /Game/TP_Game/Collectable.Collectable_C:UserConstructionScript:0064
+[2020.01.09-06.07.44:514][142]Cmd: TRANSACTION UNDO
+[2020.01.09-06.07.44:514][142]LogEditorTransaction: Undo Add Variable
+[2020.01.09-06.07.44:702][151]Cmd: TRANSACTION UNDO
+[2020.01.09-06.07.44:702][151]LogEditorTransaction: Undo Remove Variable
+[2020.01.09-06.08.11:410][535]LogSlate: Window 'Delete Variable' being destroyed
+[2020.01.09-06.08.13:026][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.08.29:475][493]BlueprintLog: New page: Compile Collectable
+[2020.01.09-06.08.29:479][493]LogBlueprint: Error: [Compiler Collectable] This blueprint (self) is not a RotatingMovementComponent, therefore ' Target ' must have a connection.
+[2020.01.09-06.08.29:479][493]LogBlueprint: Error: [Compiler Collectable] This blueprint (self) is not a RotatingMovementComponent, therefore ' Target ' must have a connection.
+[2020.01.09-06.08.29:479][493]LogBlueprint: Error: [Compiler Collectable] Variable node  Set bRotationInLocalSpace  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.01.09-06.08.29:479][493]LogBlueprint: Error: [Compiler Collectable] Variable node  Set PivotTranslation  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.01.09-06.08.29:729][493]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.01.09-06.08.33:107][686]BlueprintLog: New page: Compile Collectable
+[2020.01.09-06.08.33:110][686]LogBlueprint: Error: [Compiler Collectable] This blueprint (self) is not a RotatingMovementComponent, therefore ' Target ' must have a connection.
+[2020.01.09-06.08.33:110][686]LogBlueprint: Error: [Compiler Collectable] This blueprint (self) is not a RotatingMovementComponent, therefore ' Target ' must have a connection.
+[2020.01.09-06.08.33:110][686]LogBlueprint: Error: [Compiler Collectable] Variable node  Set bRotationInLocalSpace  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.01.09-06.08.33:110][686]LogBlueprint: Error: [Compiler Collectable] Variable node  Set PivotTranslation  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.01.09-06.08.33:363][686]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.01.09-06.09.02:084][299]BlueprintLog: New page: Compile Collectable
+[2020.01.09-06.09.02:371][299]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.01.09-06.09.07:814][576]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-06.09.07:837][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.09.07:837][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-06.09.07:838][576]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2020, 2:09:07 PM)
+[2020.01.09-06.09.07:838][576]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-06.09.07:857][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018859s)
+[2020.01.09-06.09.07:857][576]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.09-06.09.07:858][576]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2020.01.09-06.09.07:858][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020037s)
+[2020.01.09-06.09.07:903][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.01.09-06.09.07:910][576]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-06.09.07:930][576]LogInit: FAudioDevice initialized.
+[2020.01.09-06.09.07:939][576]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.09-06.09.07:941][576]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.08-22.09.07
+[2020.01.09-06.09.07:942][576]LogWorld: Bringing up level for play took: 0.001851
+[2020.01.09-06.09.07:942][576]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2020.01.09-06.09.07:944][576]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.407
+[2020.01.09-06.09.07:944][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.09.12:448][849]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.09.12:448][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-06.09.12:448][849]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-06.09.12:448][849]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.09.12:482][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-06.09.12:483][849]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.09.12:531][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-06.09.12:535][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.01.09-06.09.12:578][850]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.01.09-06.09.17:159][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.09.59:480][545]BlueprintLog: New page: Compile TimeCoin
+[2020.01.09-06.09.59:722][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.01.09-06.10.01:666][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TP_Game/TimeCoin" FILE="../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/TimeCoin.uasset" SILENT=true
+[2020.01.09-06.10.01:723][651]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/TimeCoin56C3297848E98AA6FFE5928F30CAFFC0.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/TimeCoin.uasset'
+[2020.01.09-06.10.02:564][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.10.05:279][841]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-06.10.05:300][841]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.10.05:301][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-06.10.05:301][841]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2020, 2:10:05 PM)
+[2020.01.09-06.10.05:301][841]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-06.10.05:317][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016620s)
+[2020.01.09-06.10.05:319][841]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.09-06.10.05:319][841]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2020.01.09-06.10.05:319][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018296s)
+[2020.01.09-06.10.05:361][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.01.09-06.10.05:368][841]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-06.10.05:389][841]LogInit: FAudioDevice initialized.
+[2020.01.09-06.10.05:400][841]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.09-06.10.05:403][841]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.01.08-22.10.05
+[2020.01.09-06.10.05:403][841]LogWorld: Bringing up level for play took: 0.001740
+[2020.01.09-06.10.05:403][841]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.01.09-06.10.05:405][841]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.131
+[2020.01.09-06.10.05:406][841]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.10.14:926][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.10.14:926][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-06.10.14:926][384]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.09-06.10.14:926][384]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.10.14:962][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-06.10.14:962][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.09-06.10.15:012][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-06.10.15:016][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.01.09-06.10.15:047][385]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.01.09-06.10.15:640][424]LogEditorViewport: Clicking on Actor (LMB): RotatingMovement_C (RotatingMovement)
+[2020.01.09-06.10.16:523][477]Cmd: DELETE
+[2020.01.09-06.10.16:524][477]Cmd: ACTOR DELETE
+[2020.01.09-06.10.16:526][477]LogEditorActor: Deleted Actor: RotatingMovement_C
+[2020.01.09-06.10.16:568][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.01.09-06.10.16:569][477]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.01.09-06.10.17:653][543]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-06.10.17:704][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.01.09-06.10.17:954][543]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/ThirdPersonExampleMap450CF4574E91DE98C42B23B17E940D63.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.09-06.10.18:101][543]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/ThirdPersonExampleMap_BuiltData52DACCB64297941EFC30A28AD36A22E7.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.09-06.10.22:317][653]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-06.10.22:375][653]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.01.09-06.10.22:604][653]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/ThirdPersonExampleMapA3381A2B465157B46DD14AA1D2B66742.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.09-06.10.22:735][653]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/ThirdPersonExampleMap_BuiltData894B91584D13B1E0F3C08DBF09160B51.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.09-06.10.23:771][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-06.10.23:912][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.01.09-06.10.28:673][718]LogSlate: Window 'Save Content' being destroyed
+[2020.01.09-06.10.28:696][718]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.09-06.10.28:720][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TP_Game/Collectable" FILE="../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset" SILENT=true
+[2020.01.09-06.10.28:762][718]LogSavePackage: Moving '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Saved/Collectable6D695B194B29EB7C2E6C1EB558C779F5.tmp' to '../../../../../Users/Will Hoskin/Documents/GitHub/TP_Platformer/TPPLAT_001/Content/TP_Game/Collectable.uasset'
+[2020.01.09-06.10.28:869][718]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.10.28:927][718]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.09-06.10.28:927][718]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.10.28:988][718]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.09-06.10.28:988][718]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.10.29:040][718]LogSlate: Window 'RotatingMovement' being destroyed
+[2020.01.09-06.10.29:050][718]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.09-06.10.29:050][718]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.10.29:104][718]LogSlate: Window 'TPPLAT_001 - Unreal Editor' being destroyed
+[2020.01.09-06.10.29:105][718]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.09-06.10.29:248][719]Cmd: QUIT_EDITOR
+[2020.01.09-06.10.30:221][719]LogExit: Preparing to exit.
+[2020.01.09-06.10.30:409][719]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.10.30:413][719]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.10.30:416][719]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.10.30:420][719]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.10.30:423][719]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.10.30:477][719]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.01.09-06.10.30:494][719]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.01.09-06.10.30:495][719]LogExit: Editor shut down
+[2020.01.09-06.10.30:495][719]LogExit: Transaction tracking system shut down
+[2020.01.09-06.10.30:833][719]LogExit: Object subsystem successfully closed.
+[2020.01.09-06.10.30:848][719]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.01.09-06.10.30:877][719]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (676)
+[2020.01.09-06.10.30:877][719]LogModuleManager: Shutting down and abandoning module BlueprintGraph (674)
+[2020.01.09-06.10.30:877][719]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (672)
+[2020.01.09-06.10.30:877][719]LogModuleManager: Shutting down and abandoning module Voice (670)
+[2020.01.09-06.10.30:877][719]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2020.01.09-06.10.30:877][719]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2020.01.09-06.10.30:877][719]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2020.01.09-06.10.30:877][719]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2020.01.09-06.10.30:877][719]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2020.01.09-06.10.30:877][719]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.01.09-06.10.30:878][719]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.01.09-06.10.30:879][719]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.01.09-06.10.32:583][719]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.01.09-06.10.32:627][719]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.01.09-06.10.32:627][719]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.01.09-06.10.32:627][719]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.01.09-06.10.32:627][719]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.01.09-06.10.32:627][719]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.01.09-06.10.32:627][719]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.01.09-06.10.32:627][719]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.01.09-06.10.32:627][719]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.01.09-06.10.32:627][719]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.01.09-06.10.32:627][719]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.01.09-06.10.32:627][719]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.01.09-06.10.32:636][719]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.01.09-06.10.32:636][719]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.01.09-06.10.32:636][719]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.01.09-06.10.32:636][719]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.01.09-06.10.32:637][719]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.01.09-06.10.32:637][719]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.01.09-06.10.32:637][719]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.01.09-06.10.32:637][719]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.01.09-06.10.32:638][719]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.01.09-06.10.32:638][719]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.01.09-06.10.32:638][719]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.01.09-06.10.32:639][719]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.01.09-06.10.32:642][719]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.01.09-06.10.32:698][719]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.01.09-06.10.32:699][719]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.01.09-06.10.32:801][719]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.01.09-06.10.32:901][719]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.01.09-06.10.32:901][719]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.01.09-06.10.32:901][719]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.01.09-06.10.32:901][719]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.01.09-06.10.32:901][719]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.01.09-06.10.32:901][719]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.01.09-06.10.32:901][719]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.01.09-06.10.32:901][719]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.01.09-06.10.32:901][719]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.01.09-06.10.32:901][719]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.01.09-06.10.32:901][719]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.01.09-06.10.32:901][719]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.01.09-06.10.32:901][719]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.01.09-06.10.32:901][719]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.01.09-06.10.32:902][719]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.01.09-06.10.32:902][719]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.01.09-06.10.32:902][719]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.01.09-06.10.32:902][719]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.01.09-06.10.32:902][719]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.01.09-06.10.32:904][719]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.01.09-06.10.32:904][719]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.01.09-06.10.32:904][719]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.01.09-06.10.32:904][719]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.01.09-06.10.32:904][719]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.01.09-06.10.32:906][719]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.01.09-06.10.32:907][719]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.01.09-06.10.32:907][719]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.01.09-06.10.32:907][719]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.01.09-06.10.32:907][719]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.01.09-06.10.32:907][719]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.01.09-06.10.32:907][719]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.01.09-06.10.32:908][719]LogDerivedDataCache: Shutdown
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.01.09-06.10.32:908][719]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.01.09-06.10.32:909][719]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.01.09-06.10.32:909][719]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.01.09-06.10.32:909][719]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.01.09-06.10.32:909][719]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.01.09-06.10.32:909][719]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.01.09-06.10.32:909][719]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.01.09-06.10.32:909][719]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.01.09-06.10.32:911][719]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.01.09-06.10.32:911][719]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.01.09-06.10.32:911][719]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.01.09-06.10.32:911][719]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.01.09-06.10.32:911][719]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.01.09-06.10.32:912][719]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.01.09-06.10.32:912][719]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.01.09-06.10.32:914][719]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.01.09-06.10.32:914][719]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.01.09-06.10.32:927][719]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.01.09-06.10.32:927][719]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.01.09-06.10.32:927][719]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.01.09-06.10.32:927][719]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.01.09-06.10.32:927][719]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.01.09-06.10.32:927][719]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.01.09-06.10.32:927][719]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.01.09-06.10.32:927][719]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.01.09-06.10.32:927][719]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.01.09-06.10.32:927][719]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.01.09-06.10.32:927][719]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.01.09-06.10.32:927][719]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.01.09-06.10.32:928][719]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.01.09-06.10.32:928][719]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.01.09-06.10.32:928][719]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.01.09-06.10.32:928][719]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.01.09-06.10.32:928][719]LogHMD: Freeing OpenVRDLLHandle.
+[2020.01.09-06.10.32:928][719]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.01.09-06.10.32:928][719]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.01.09-06.10.32:928][719]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.01.09-06.10.32:928][719]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.01.09-06.10.32:928][719]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.01.09-06.10.32:929][719]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.01.09-06.10.32:929][719]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.01.09-06.10.32:959][719]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.01.09-06.10.32:959][719]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.01.09-06.10.32:959][719]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2EF4D611-4405-50C5-D73E-B18579FD0088%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e5769ea649c8cf691ef8c5943142ec72%7C7aa6089669f7429c8ee2d7f9201165b5%7C8f4e8004-a7c9-4c0b-be35-89f0283e22e8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.09-06.10.32:959][719]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2EF4D611-4405-50C5-D73E-B18579FD0088%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e5769ea649c8cf691ef8c5943142ec72%7C7aa6089669f7429c8ee2d7f9201165b5%7C8f4e8004-a7c9-4c0b-be35-89f0283e22e8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.09-06.10.32:964][719]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.01.09-06.10.32:966][719]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.01.09-06.10.32:967][719]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.01.09-06.10.32:968][719]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.01.09-06.10.32:968][719]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.01.09-06.10.32:968][719]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.01.09-06.10.32:968][719]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.01.09-06.10.32:968][719]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.01.09-06.10.32:968][719]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.01.09-06.10.32:968][719]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.01.09-06.10.32:970][719]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.01.09-06.10.32:970][719]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.01.09-06.10.32:970][719]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.01.09-06.10.32:970][719]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.01.09-06.10.32:970][719]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.01.09-06.10.32:971][719]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.01.09-06.10.32:971][719]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.01.09-06.10.32:971][719]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.01.09-06.10.32:971][719]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.01.09-06.10.32:971][719]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.01.09-06.10.32:971][719]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.01.09-06.10.32:971][719]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.01.09-06.10.32:971][719]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.01.09-06.10.32:971][719]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.01.09-06.10.32:971][719]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.01.09-06.10.32:971][719]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.01.09-06.10.32:971][719]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.01.09-06.10.32:974][719]LogD3D11RHI: Shutdown
+[2020.01.09-06.10.32:974][719]LogD3D11RHI: CleanupD3DDevice
+[2020.01.09-06.10.32:974][719]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.09-06.10.32:974][719]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.09-06.10.32:974][719]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.09-06.10.33:168][719]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.01.09-06.10.33:177][719]LogExit: Exiting.
+[2020.01.09-06.10.33:190][719]Log file closed, 01/08/20 22:10:33
